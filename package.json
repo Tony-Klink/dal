@@ -1,5 +1,5 @@
 {
-  "name": "dal",
+  "name": "vidal",
   "version": "0.1.0",
   "description": "Generate unique and sometimes funny ids in Node.js application",
   "main": "index.js",

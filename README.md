@@ -1,4 +1,4 @@
-# Dal: Generate unique and sometimes funny ids in Node.js application
+# Vidal: Generate unique and sometimes funny ids in Node.js application
 
 `dal` creates sentences on the form adjective + name + wants + adverb + verb using Russian words
 
@@ -12,12 +12,12 @@
 
 Via npm:
 
-    npm install dal
+    npm install vidal
 
 ## Usage
 
-    const dal = require("dal"),
-        sentence = dal.sentence(); // зверский Яровид стремится безнадежно протестовать
+    const vidal = require("vidal"),
+        sentence = vidal.sentence(); // зверский Яровид стремится безнадежно протестовать
 
 
 ## License 
