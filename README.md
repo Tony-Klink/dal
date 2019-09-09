@@ -1,6 +1,6 @@
 # Vidal: Generate unique and sometimes funny ids in Node.js application
 
-`dal` creates sentences on the form adjective + name + wants + adverb + verb using Russian words
+`vidal` creates sentences on the form adjective + name + wants + adverb + verb using Russian words
 
 ## Version
 0.1.0
