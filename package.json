@@ -1,0 +1,17 @@
+{
+  "name": "dal",
+  "version": "0.1.0",
+  "description": "Generate unique and sometimes funny ids in Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uuid",
+    "id",
+    "slug",
+    "russian"
+  ],
+  "author": "Ian",
+  "license": "MIT"
+}
