@@ -1,6 +1,6 @@
 {
   "name": "vidal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate unique and sometimes funny ids in Node.js application",
   "main": "index.js",
   "scripts": {
